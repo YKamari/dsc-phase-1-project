@@ -4,13 +4,13 @@
 
 ## Overview
 
-This project analyzes movie trends and success against various metrics such as earnings, profit, genre and ratings. Understanding and analysis of the feature relationships indicates that while the number of movie releases is on a downward trajectory, sequels are becoming and increasingly popular way for production studios to grow their revenue. While the movie industry's massive earnings have long been attributed to success overseas, foreign markets have seemingly been affected by economic factors hampering their performance. Luckily we have seen the domestic market some in strong to try and fill in the gap. Microsoft can use this analysis to determine the category of movies to produce, markets to target and budgetary allocation for their productions.
+This project analyzes movie trends and success against various metrics such as earnings, profit, genre, and ratings. Understanding and analysis of the feature relationships indicate that while the number of movie releases is on a downward trajectory, sequels are becoming an increasingly popular way for production studios to grow their revenue. While the movie industry's massive earnings have long been attributed to success overseas, foreign markets have seemingly been affected by economic factors hampering their performance. Luckily we have seen the domestic market some in strong to try and fill in the gap. Microsoft can use this analysis to determine the category of movies to produce, markets to target, and budgetary allocation for their productions.
 
 ## Business Problem
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies.
 
-Using data from Box Office Mojo, The Numbers, IMDB and The Movie Database I discuss and illustrate the patterns in movie release trends, box office revenue, ratings and popular genres to aid in Microsoft's decision on what type of films to create.
+Using data from Box Office Mojo, The Numbers, IMDB, and The Movie Database I discuss and illustrate the patterns in movie release trends, box office revenue, ratings and popular genres to aid in Microsoft's decision on what type of films to create.
 
 ## Data
 
@@ -28,7 +28,7 @@ This project uses Exploratory Data Analysis (EDA) including trends and correlati
 
 ### 1. Annual Trend Analysis: Movie Releases
 
-There appears to be a downward trend on the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steeply drop in 2016 and only further declining thereafter.
+There appears to be a downward trend in the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steeply drop in 2016 and only further declining thereafter.
 
 
 
@@ -141,16 +141,20 @@ The overseas market is critical for the success of any major film studio and thu
 
 
 ## Business Recommendations
-1. Conduct thorough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony, and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is an indicator of the mean feat that it is.
+1. Conduct thorough market and competitor analysis as we have observed the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony, and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is an indicator of the mean feat that it is.
 3. Hire talent from the top 5 studios who can guide the strategy and content creation.
-4. Consider the foreign market - it has proven a major contributor to the success of the top 5 studios, especially Disney being the highest-earning studio from foreign gross earnings. 
+4. Consider the foreign market - it has proven a major contributor to the success of the top 5 studios, especially Disney, the highest-earning studio from foreign gross earnings. 
 5. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become increasingly profitable over the years and are a great contributor to the success of other major studios.
 6. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a massive amount of CGI.
 7. When it comes to runtime minutes it seems that nowadays, the longer the better. Studios appear to be giving audiences longer and longer movies possibly in response to audience feedback/demands.
-8. It may be a viable option for Microsoft to look into investing in one of the more successful studios in the industry given that it is far less risky and guarantees Microsoft a decent form of return.
-
+8. It may be a viable option for Microsoft to invest in one of the more successful studios in the industry given that it is far less risky and guarantees Microsoft a decent form of return.
 
 ## Study Limitations
 1. Given the structure of the data, the correlation between genre and earnings could not be established.
 2. The data did not contain all original titles to enable comparative analysis with the succeeding sequels/franchise films.
 3. We are unable to establish the impact of contributions towards earnings such as marketing, cast, and crew.
+
+## Recommendations for Future Analysis
+1. Effects of streaming sites on the movie industry
+2. Genre as a contributor to the success of a film
+3. Impact of studio name (brand), on the success of a film.
