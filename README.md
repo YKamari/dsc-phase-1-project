@@ -110,5 +110,17 @@ We observe a weak positive relationship between vote average and profit. Implyin
 
 
 ### 8. Most Popular Genres
-Drama
+The top 5 most highly produced genre of film in the dataset are,
+* Drama - 574
+* Comedy - 406
+* Action - 333
+* Adventure - 278
+* Thriller - 193
+
 ![most popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dd7d8788-52ce-4864-b020-c2a2b2d5abe6)
+
+We observe a combination of these genres also associated to the genres of the top 20  most profitable movies.
+
+![genres for most profitable movies](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/69a970a8-bf6f-490b-a8b8-73736c0d88d6)
+
+
