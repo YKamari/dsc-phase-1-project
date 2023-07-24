@@ -94,7 +94,7 @@ Studios making big bucks also often allocate hefty budgets towards their product
 
 
 
-### Sequels: Comparative Analysis on Gross Profits
+### 6. Sequels: Comparative Analysis on Gross Profits
 Analyzing sequels, we find that they are greatly profitable and are a great way for studios to earn profits by further developing existing produtions. The performance between earlier and later releases varies from movie to movie likely dictated by the success of the preceeding film.
 
 
@@ -102,3 +102,13 @@ Analyzing sequels, we find that they are greatly profitable and are a great way 
 ![sequels gross profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/177ec7ad-0c3a-4419-8926-da605853e8df)
 
 
+### 7. Correlation between Vote Average (Rating) and Gross Profit
+We observe a weak positive relationship between vote average and profit. Implying that on average, as the vote average increases, there is a slight tendency for the profit to increase as well. However given the weakness of the correlation this suggest there may be a lot of variability in profit even for movies with similar vote averages.
+
+
+![correlation vote average and profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/3f65f8df-bcd6-4ce0-a47f-72d41c86f3e0)
+
+
+### 8. Most Popular Genres
+Drama
+![most popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dd7d8788-52ce-4864-b020-c2a2b2d5abe6)
