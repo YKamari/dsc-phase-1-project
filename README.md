@@ -139,7 +139,9 @@ The leading studios in the indusry have done their homework, majorly focusing th
 
 ## Business Recommendations
 1. Prior to entering the market, Microsoft should conduct a throrough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is indicator of the mean feat that it is.
-2. To penetrate into the industry I would be advantageous for Micrisoft to hire talent from the top 5 studios who can guide their strategy and content creation.
-3. Always consider the foreign market - the market overseas has proven a major contributor to the success of the top 5 studios, especially Disney being the highest earning studio from foreign gross earnings. It is therefore crucial for Microsoft to figure out what is most appealing to the overseas market in order to capitalize their market.
-4. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become inreasingly profitable over the years and are a great contriutor to the success of other major studios.
-5. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a s massive amount of CGI.
+3. To penetrate into the industry I would be advantageous for Micrisoft to hire talent from the top 5 studios who can guide their strategy and content creation.
+4. Always consider the foreign market - the market overseas has proven a major contributor to the success of the top 5 studios, especially Disney being the highest earning studio from foreign gross earnings. It is therefore crucial for Microsoft to figure out what is most appealing to the overseas market in order to capitalize their market.
+5. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become inreasingly profitable over the years and are a great contriutor to the success of other major studios.
+6. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a massive amount of CGI.
+7. When it comes to runtime minutes it seems that nowadays, the longer the better. Studios appear to be giving audiences longer and longer movies possibly in response to audience feedback/demands.
+8. Lastly, it is also a viable option for Microsoft to look into investing in one of the more successful studios in the indusrty given that it is far less risky and guarantees Microsoft a decent form of return.
