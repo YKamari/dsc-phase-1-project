@@ -80,7 +80,7 @@ Having the majority of the most high earning and profitable films, Walt Disney a
 ![top 10 highest profit plus earning studios](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/5f1b9d76-7a72-442a-b87e-cfcaf356f884)
 
 
-### 5. Movie Productions with the Highest Budgets
+### 6. Movie Productions with the Highest Budgets
 Studios making big bucks also often allocate hefty budgets towards their production but this doesn't always pay off as we see only 4 movies among the top 20 movies with the largest budgets make it to the top 20 most profitable movies. These are, 
 * Avengers: Age of Ultron
 * Avengers: Age of Ultron
@@ -92,7 +92,7 @@ Studios making big bucks also often allocate hefty budgets towards their product
 
 
 
-### 6. Sequels: Comparative Analysis on Gross Profits
+### 7. Sequels: Comparative Analysis on Gross Profits
 Analyzing sequels, we find that they are greatly profitable and are a great way for studios to earn profits by further developing existing produtions. The performance between earlier and later releases varies from movie to movie likely dictated by the success of the preceeding film.
 
 
@@ -100,14 +100,14 @@ Analyzing sequels, we find that they are greatly profitable and are a great way 
 ![sequels gross profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/177ec7ad-0c3a-4419-8926-da605853e8df)
 
 
-### 7. Correlation between Vote Average (Rating) and Gross Profit
+### 8. Correlation between Vote Average (Rating) and Gross Profit
 We observe a weak positive relationship between vote average and profit. Implying that on average, as the vote average increases, there is a slight tendency for the profit to increase as well. However given the weakness of the correlation this suggest there may be a lot of variability in profit even for movies with similar vote averages.
 
 
 ![correlation vote average and profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/3f65f8df-bcd6-4ce0-a47f-72d41c86f3e0)
 
 
-### 8. Most Popular Genres
+### 9. Most Popular Genres
 The top 5 most highly produced genre of film in the dataset are,
 * Drama - 574
 * Comedy - 406
