@@ -128,3 +128,11 @@ While the average runtime for movies in the dataset is 108 minutes, we find that
 
 
 ![profitable movies runtime mins](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/98c8bb5c-cd7d-461a-a0af-eaf3bb9c1102)
+
+
+## Conclusions
+The movie industry is highly lucrative, earning the major studios hundreds of millions of dollars in profit. Despite the downward trend in the number of movie releases, the future of the indusrty still remains promising as earnings continue to sky rocket.
+
+The indusrty is currently dominated by 10 major studios whose movies are consistently among the highest earning and most profitable. A portion of the success of these studios can be attributed to their ability to turn already existing stories such as comic books and movies into franchise films as well as make multiple sequels from their original creations enabling them to squeeze every last drop in earnings from those story lines.
+
+The leading studios in the indusry have done their homework, majorly focusing their productions of the most lucrative genres, Action, Adventure, Sci-Fi, Animation and Comedy - a recipie for success.
