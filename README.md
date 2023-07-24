@@ -108,14 +108,14 @@ We observe a weak positive relationship between vote average and profit. Implyin
 
 
 ### 9. Most Popular Genres
-The top 5 most highly produced genre of film in the dataset are,
+The top 5 most highly produced genres of film in the dataset are,
 * Drama - 574
 * Comedy - 406
 * Action - 333
 * Adventure - 278
 * Thriller - 193
 
-We observe a combination of these genres also associated to the genres of the top 20  most profitable movies.
+We observe a combination of these genres also associated with the genres of the top 20  most profitable movies.
 
 ![most popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dd7d8788-52ce-4864-b020-c2a2b2d5abe6)
 
@@ -124,33 +124,33 @@ We observe a combination of these genres also associated to the genres of the to
 
 
 ### 9. Runtime Minutes: Most Profitable Movies
-While the average runtime for movies in the dataset is 108 minutes, we find that the top 10 most profitable movies go far beyond the mean, we the run times ranging from 134 - 165 minutes.
+While the average runtime for movies in the dataset is 108 minutes, we find that the top 10 most profitable movies go far beyond the mean, the run times ranging from 134 - 165 minutes.
 
 
 ![profitable movies runtime mins](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/98c8bb5c-cd7d-461a-a0af-eaf3bb9c1102)
 
 
 ## Conclusions
-The movie industry is highly lucrative, earning the major studios hundreds of millions of dollars in profit. Despite the downward trend in the number of movie releases, the future of the indusrty still remains promising as earnings continue to sky rocket.
+The movie industry is highly lucrative, earning the major studios hundreds of millions of dollars in profit. Despite the downward trend in the number of movie releases, the future of the industry remains promising as earnings continue to skyrocket.
 
-The indusrty is currently dominated by 10 major studios whose movies are consistently among the highest earning and most profitable. A portion of the success of these studios can be attributed to their ability to turn already existing stories such as comic books and movies into franchise films as well as make multiple sequels from their original creations enabling them to squeeze every last drop in earnings from those story lines.
+The industry is currently dominated by 10 major studios whose movies are consistently among the highest-earning and most profitable. A portion of the success of these studios can be attributed to their ability to turn already existing stories such as comic books and movies into franchise films as well as make multiple sequels from their original creations enabling them to squeeze every last drop in earnings from those storylines.
 
-The leading studios in the indusry have done their homework, majorly focusing their productions of the most lucrative genres, Action, Adventure, Sci-Fi, Animation and Comedy - a recipie for success. Additionally putting major focus on sequels and franchise productions enabling to capitalize on the development of one storyline.
+The leading studios in the industry have done their homework, majorly focusing their productions of the most lucrative genres, Action, Adventure, Sci-Fi, Animation, and Comedy - a recipe for success. Additionally putting major focus on sequels and franchise productions enabling to capitalize on the development of one storyline.
 
-The overseas market is critical for the success of any major film studio thus must not be neglected.
+The overseas market is critical for the success of any major film studio and thus must not be neglected.
 
 
 ## Business Recommendations
-1. Prior to entering the market, Microsoft should conduct a throrough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is indicator of the mean feat that it is.
-3. To penetrate into the industry I would be advantageous for Micrisoft to hire talent from the top 5 studios who can guide their strategy and content creation.
-4. Always consider the foreign market - the market overseas has proven a major contributor to the success of the top 5 studios, especially Disney being the highest earning studio from foreign gross earnings. It is therefore crucial for Microsoft to figure out what is most appealing to the overseas market in order to capitalize their market.
-5. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become inreasingly profitable over the years and are a great contriutor to the success of other major studios.
+1. Conduct thorough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony, and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is an indicator of the mean feat that it is.
+3. Hire talent from the top 5 studios who can guide the strategy and content creation.
+4. Consider the foreign market - it has proven a major contributor to the success of the top 5 studios, especially Disney being the highest-earning studio from foreign gross earnings. 
+5. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become increasingly profitable over the years and are a great contributor to the success of other major studios.
 6. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a massive amount of CGI.
 7. When it comes to runtime minutes it seems that nowadays, the longer the better. Studios appear to be giving audiences longer and longer movies possibly in response to audience feedback/demands.
-8. Lastly, it is also a viable option for Microsoft to look into investing in one of the more successful studios in the indusrty given that it is far less risky and guarantees Microsoft a decent form of return.
+8. It may be a viable option for Microsoft to look into investing in one of the more successful studios in the industry given that it is far less risky and guarantees Microsoft a decent form of return.
 
 
 ## Study Limitations
 1. Given the structure of the data, the correlation between genre and earnings could not be established.
-2. The data did not contain all original titles to enable comparative analysis with the succeeding sequels/franhise films.
-3. We are unable to establish the impact of contributions towards earnings such as marketing, casta and crew.
+2. The data did not contain all original titles to enable comparative analysis with the succeeding sequels/franchise films.
+3. We are unable to establish the impact of contributions towards earnings such as marketing, cast, and crew.
