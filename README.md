@@ -1,65 +1,53 @@
-# Phase 1 Project
+# Microsoft Movie Venture Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+**Author**: [Yvonne Kamari](mailto:yvonne.kamari@student.moringaschool.com)
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+## Overview
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+This project analyzes movie trends and success against various metrics such as earnings, profit, genre and ratings. Understanding and analysis of the feature relationships indicates that while the number of movie releases is on a downward trajectory, sequels are becoming and increasingly popular way for production studios to grow their revenue. While the movie industry's massive earnings have long been attributed to success overseas, foreign markets have seemingly been affected by economic factors hampering their performance. Luckily we have seen the domestic market some in strong to try and fill in the gap. Microsoft can use this analysis to determine the category of movies to produce, markets to target and budgetary allocation for their productions.
 
-## Project Overview
+## Business Problem
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies.
 
-### Business Problem
+Using data from Box Office Mojo, The Numbers, IMDB and The Movie Database I discuss and illustrate the patterns in movie release trends, box office revenue, ratings and popular genres to aid in Microsoft's decision on what type of films to create.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+## Data
 
-### The Data
+This project uses data from the below sources. The data contains information on domestic and worldwide earnings, release dates genres and ratings.
+1. [Box Office Mojo ](https://github.com/YKamari/dsc-phase-1-project/blob/master/zippedData/bom.movie_gross.csv.gz)
+2. [The Numbers ](https://github.com/YKamari/dsc-phase-1-project/blob/master/zippedData/tn.movie_budgets.csv.gz )
+3. [IMDB](https://github.com/YKamari/dsc-phase-1-project/blob/master/zippedData/imdb.title.basics.csv.gz)
+4. [The Movie Database](https://github.com/YKamari/dsc-phase-1-project/blob/master/zippedData/tmdb.movies.csv.gz)
 
-In the folder `zippedData` are movie datasets from:
+## Methods
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+This project uses Exploratory Data Analysis (EDA) including trends and correlation providing key insights into the movie industry to identify penetration strategies for Microsoft.
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+## Results
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+There appears to be a downward trend on the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steeply drop in 2016 and only further declining thereafter.
 
-## Deliverables
+![declining movie trend](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/0d6c1bf9-f97e-47d8-b0b6-04305052f2a8)
 
-There are three deliverables for this project:
+We note a slight year on year increase in average production budget from 2010 - 2013 and 2015 - 2017 with the drop in average production budget between 2013 and 2014 may possibly be attributed to a decrease in production of blockbuster movies or challenging economic times.
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+Average gross profit earnings follows a similar trend to worldwide gross earnings with the average gross profit steadily increasing between 2010 and 2014, dipping in 2015, but recovering strongly from 2016 as foreign earnings reach an all time high.
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+![earnings vs profit vs budget](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/072e16a4-52f5-43a1-8620-52b696155d7a)
 
-### Key Points
+The correlation between season for release and gross earnings is very weak  indicating almost no linear relationship between the season in which a movie is released.
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+![worldwide gross seasonal correlation](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/ce4cb4ff-7670-4301-8917-45b5ae5e5b3f)
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+The highest earning movies worldwide each year are also appear to be the most profitable movies in their respective years. Foreign gross earnings was the major contributor to majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+Toy Story 3 was also the only movie that is the highest earning both domestically and overseas in its release year.
 
-## Getting Started
+![most profitabe movies per year](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/f6cb697c-3de8-42e7-96a2-a189438aab25)
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+Looking at the top 20 most profitable movies overall, we note that 65% are sequels.
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+![top 20 profitable movies per studio use also ww](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/c9b13514-e770-46f6-a366-11926d4f430c)
 
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
