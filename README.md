@@ -57,7 +57,7 @@ The correlation between season for release and gross earnings is very weak  indi
 ![worldwide gross seasonal correlation](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/ce4cb4ff-7670-4301-8917-45b5ae5e5b3f)
 
 
-### 4. Most Successful Movie Productions: Earnings & Profitability)
+### 4. Most Successful Movie Productions: Earnings & Profitability
 
 The highest earning movies worldwide each year are also appear to be the most profitable movies in their respective years. Foreign gross earnings was the major contributor to majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
 
@@ -68,15 +68,13 @@ Toy Story 3 was also the only movie that is the highest earning both domesticall
 ![most profitabe movies per year](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/f6cb697c-3de8-42e7-96a2-a189438aab25)
 
 
-
 Looking at the top 20 most profitable movies overall, we note that 65% are sequels inferring that they generally fetch more at the box office than stand alone original films or oiginal films related to a sequel (parent films) or possibly the result of higher sequel releases over the period.
-
 
 
 ![top 20 profitable movies per studio use also ww](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/c9b13514-e770-46f6-a366-11926d4f430c)
 
 
-
+### 5. Most Profitable Studios
 Having the majority of the most high earning and profitable films, Walt Disney and Universal Studios are the two most profitable studios raking in USD 23,835,217,937.00 and USD 20,733,081,963.00 respectively over the 4 year period.
 
 
@@ -84,6 +82,7 @@ Having the majority of the most high earning and profitable films, Walt Disney a
 ![top 10 highest profit plus earning studios](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/5f1b9d76-7a72-442a-b87e-cfcaf356f884)
 
 
+### 5. Movie Productions with the Highest Budgets
 Studios making big bucks also often allocate hefty budgets towards their production but this doesn't always pay off as we see only 4 movies among the top 20 movies with the largest budgets make it to the top 20 most profitable movies. These are, 
 * Avengers: Age of Ultron
 * Avengers: Age of Ultron
@@ -95,6 +94,7 @@ Studios making big bucks also often allocate hefty budgets towards their product
 
 
 
+### Sequels: Comparative Analysis on Gross Profits
 Analyzing sequels, we find that they are greatly profitable and are a great way for studios to earn profits by further developing existing produtions. The performance between earlier and later releases varies from movie to movie likely dictated by the success of the preceeding film.
 
 
