@@ -59,7 +59,7 @@ The correlation between season for release and gross earnings is very weak  indi
 
 ### 4. Most Successful Movie Productions: Earnings & Profitability
 
-The highest earning movies worldwide each year are also appear to be the most profitable movies in their respective years. Foreign gross earnings was the major contributor to majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
+The top 20 highest earning movies from 2010 to 2018, domestically and oveseas are produced by 10 studios - the top 10 highest earning movies worldwide each year are also top 10 the most profitable movies in their respective years. Foreign gross earnings was the major contributor to financial performance majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
 
 Toy Story 3 was also the only movie that is the highest earning both domestically and overseas in its release year.
 
