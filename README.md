@@ -136,3 +136,8 @@ The movie industry is highly lucrative, earning the major studios hundreds of mi
 The indusrty is currently dominated by 10 major studios whose movies are consistently among the highest earning and most profitable. A portion of the success of these studios can be attributed to their ability to turn already existing stories such as comic books and movies into franchise films as well as make multiple sequels from their original creations enabling them to squeeze every last drop in earnings from those story lines.
 
 The leading studios in the indusry have done their homework, majorly focusing their productions of the most lucrative genres, Action, Adventure, Sci-Fi, Animation and Comedy - a recipie for success.
+
+## Business Recommendations
+1. Prior to entering the market, Microsoft should conduct a throrough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is indicator of the mean feat that it is.
+2. To penetrate into the industry I would be advantageous for Micrisoft to hire talent from the top 5 studios who can guide their strategy and content creation.
+3. Always consider the foreign market - the market overseas has proven a major contributor to the success of the top 5 studios, especially Disney being the highest earning studio from foreign gross earnings. It is therefore crucial for Microsoft t
