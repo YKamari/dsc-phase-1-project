@@ -63,12 +63,10 @@ The highest earning movies worldwide each year are also appear to be the most pr
 
 Toy Story 3 was also the only movie that is the highest earning both domestically and overseas in its release year.
 
-
+Looking also at the top 20 most profitable movies overall, we note that 65% are sequels inferring that they generally fetch more at the box office than stand alone original films or oiginal films related to a sequel (parent films) or possibly the result of higher sequel releases over the period.
 
 ![most profitabe movies per year](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/f6cb697c-3de8-42e7-96a2-a189438aab25)
 
-
-Looking at the top 20 most profitable movies overall, we note that 65% are sequels inferring that they generally fetch more at the box office than stand alone original films or oiginal films related to a sequel (parent films) or possibly the result of higher sequel releases over the period.
 
 
 ![top 20 profitable movies per studio use also ww](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/c9b13514-e770-46f6-a366-11926d4f430c)
@@ -117,10 +115,16 @@ The top 5 most highly produced genre of film in the dataset are,
 * Adventure - 278
 * Thriller - 193
 
+We observe a combination of these genres also associated to the genres of the top 20  most profitable movies.
+
 ![most popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dd7d8788-52ce-4864-b020-c2a2b2d5abe6)
 
-We observe a combination of these genres also associated to the genres of the top 20  most profitable movies.
 
 ![genres for most profitable movies](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/69a970a8-bf6f-490b-a8b8-73736c0d88d6)
 
 
+### 9. Runtime Minutes: Most Profitable Movies
+While the average runtime for movies in the dataset is 108 minutes, we find that the top 10 most profitable movies go far beyond the mean, we the run times ranging from 134 - 165 minutes.
+
+
+![profitable movies runtime mins](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/98c8bb5c-cd7d-461a-a0af-eaf3bb9c1102)
