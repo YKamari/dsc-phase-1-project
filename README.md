@@ -153,4 +153,4 @@ The overseas market is critical for the success of any major film studio thus mu
 ## Study Limitations
 1. Given the structure of the data, the correlation between genre and earnings could not be established.
 2. The data did not contain all original titles to enable comparative analysis with the succeeding sequels/franhise films.
-3. 
+3. We are unable to establish the impact of contributions towards earnings such as marketing, casta and crew.
