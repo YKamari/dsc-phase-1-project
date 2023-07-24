@@ -26,6 +26,8 @@ This project uses Exploratory Data Analysis (EDA) including trends and correlati
 
 ## Results
 
+### 1. Annual Trend Analysis: Movie Releases
+
 There appears to be a downward trend on the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steeply drop in 2016 and only further declining thereafter.
 
 
@@ -33,6 +35,9 @@ There appears to be a downward trend on the number of movies released yearly wit
 ![declining movie trend](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/0d6c1bf9-f97e-47d8-b0b6-04305052f2a8)
 
 
+
+
+### 2. Annual Trend Analysis: Worldwide Gross, Production Budget & Gross Profit
 
 We note a slight year on year increase in average production budget from 2010 - 2013 and 2015 - 2017 with the drop in average production budget between 2013 and 2014 may possibly be attributed to a decrease in production of blockbuster movies or challenging economic times.
 
@@ -43,6 +48,7 @@ Average gross profit earnings follows a similar trend to worldwide gross earning
 ![earnings vs profit vs budget](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/072e16a4-52f5-43a1-8620-52b696155d7a)
 
 
+### 3. Correlation between Season for Release & Earnings
 
 The correlation between season for release and gross earnings is very weak  indicating almost no linear relationship between the season in which a movie is released. Studios are therefore free to release their productions as they wish.
 
@@ -51,6 +57,7 @@ The correlation between season for release and gross earnings is very weak  indi
 ![worldwide gross seasonal correlation](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/ce4cb4ff-7670-4301-8917-45b5ae5e5b3f)
 
 
+### 4. Most Successful Movie Productions: Earnings & Profitability)
 
 The highest earning movies worldwide each year are also appear to be the most profitable movies in their respective years. Foreign gross earnings was the major contributor to majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
 
