@@ -139,6 +139,7 @@ The leading studios in the indusry have done their homework, majorly focusing th
 
 The overseas market is critical for the success of any major film studio thus must not be neglected.
 
+
 ## Business Recommendations
 1. Prior to entering the market, Microsoft should conduct a throrough market and competitor analysis as we have observe the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is indicator of the mean feat that it is.
 3. To penetrate into the industry I would be advantageous for Micrisoft to hire talent from the top 5 studios who can guide their strategy and content creation.
@@ -147,3 +148,9 @@ The overseas market is critical for the success of any major film studio thus mu
 6. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a massive amount of CGI.
 7. When it comes to runtime minutes it seems that nowadays, the longer the better. Studios appear to be giving audiences longer and longer movies possibly in response to audience feedback/demands.
 8. Lastly, it is also a viable option for Microsoft to look into investing in one of the more successful studios in the indusrty given that it is far less risky and guarantees Microsoft a decent form of return.
+
+
+## Study Limitations
+1. Given the structure of the data, the correlation between genre and earnings could not be established.
+2. The data did not contain all original titles to enable comparative analysis with the succeeding sequels/franhise films.
+3. 
