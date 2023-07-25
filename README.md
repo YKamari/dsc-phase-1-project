@@ -33,83 +33,91 @@ This project uses Exploratory Data Analysis (EDA) including trends and correlati
 
 ### 1. Annual Trend Analysis: Movie Releases
 
-There appears to be a downward trend in the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steeply drop in 2016 and only further declining thereafter.
+There appears to be a downward trend in the number of movies released yearly with the highest number of movies being released in 2010 and the least in 2018. While a slight recovery is observed in 2014, releases steep drop in 2016 and only further declines thereafter.
 
 
-
-![declining movie trend](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/0d6c1bf9-f97e-47d8-b0b6-04305052f2a8)
+![movie release trend](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/7f9500d2-9731-4668-ba8a-ac8249e8a0a1)
 
 
 
 
 ### 2. Annual Trend Analysis: Worldwide Gross, Production Budget & Gross Profit
 
-We note a slight year on year increase in average production budget from 2010 - 2013 and 2015 - 2017 with the drop in average production budget between 2013 and 2014 may possibly be attributed to a decrease in production of blockbuster movies or challenging economic times.
+We note a slight year-on-year increase in the average production budget from 2010 - 2013 and 2015 - 2017 with the drop in average production budget between 2013 and 2014 may possibly be attributed to a decrease in production of blockbuster movies or challenging economic times.
 
-Average gross profit earnings follows a similar trend to worldwide gross earnings with the average gross profit steadily increasing between 2010 and 2014, dipping in 2015, but recovering strongly from 2016 as foreign earnings reach an all time high.
+Average gross profit earnings follow a similar trend to worldwide gross earnings with the average gross profit steadily increasing between 2010 and 2014, dipping in 2015, but recovering strongly from 2016 as foreign earnings reach an all-time high.
 
 
 
-![earnings vs profit vs budget](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/072e16a4-52f5-43a1-8620-52b696155d7a)
+![WW Gross, Prod   GP](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/8736acb2-6492-4b5c-8139-b0f5128eab30)
+
 
 
 ### 3. Correlation between Season for Release & Earnings
 
-The correlation between season for release and gross earnings is very weak  indicating almost no linear relationship between the season in which a movie is released. Studios are therefore free to release their productions as they wish.
+The correlation between the season for release and gross earnings is very weak indicating almost no linear relationship between the season in which a movie is released. Studios are therefore free to release their productions as they wish.
 
 
+![Corr Season   Releases](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/b55ab536-914e-4fc6-b3e0-c2e7b441327d)
 
-![worldwide gross seasonal correlation](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/ce4cb4ff-7670-4301-8917-45b5ae5e5b3f)
+
 
 
 ### 4. Most Successful Movie Productions: Earnings & Profitability
 
-The top 20 highest earning movies from 2010 to 2018, domestically and oveseas are produced by 10 studios - the top 10 highest earning movies worldwide each year are also top 10 the most profitable movies in their respective years. Foreign gross earnings was the major contributor to financial performance majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
+The top 20 highest-earning movies from 2010 to 2018, domestically and overseas are produced by 10 studios. The animated movie, Toy Story 3 was also the only movie that is the highest earning both domestically and overseas in its release year.
 
-Toy Story 3 was also the only movie that is the highest earning both domestically and overseas in its release year.
-
-Looking also at the top 20 most profitable movies overall, we note that 65% are sequels inferring that they generally fetch more at the box office than stand alone original films or oiginal films related to a sequel (parent films) or possibly the result of higher sequel releases over the period.
-
-![most profitabe movies per year](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/f6cb697c-3de8-42e7-96a2-a189438aab25)
+The top 10 highest-earning movies worldwide each year are also the top 10 most profitable movies in their respective years. Foreign gross earnings were the major contributor to the financial performance majority of these films with the exception of 'Transformers: Dark of the Moon' and 'Jurassic World' whose earnings were mainly from domestic earnings.
 
 
+![profitable movies yoy](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/2f209d64-fb2e-41ba-aed4-86ed3a07b1fb)
 
-![top 20 profitable movies per studio use also ww](https://github.com/learn-co-curriculum/dsc-project-template/assets/133201112/c9b13514-e770-46f6-a366-11926d4f430c)
+
+Looking also at the top 20 most profitable movies overall, we note that 65% are sequels inferring that they generally fetch more at the box office than stand-alone original films or original films related to a sequel (parent films) or possibly the result of higher sequel releases over the period.
+
+
+![profitable movies overall](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/9c3fb448-1a36-4f08-8330-7b179656775f)
+
 
 
 ### 5. Most Profitable Studios
-Having the majority of the most high earning and profitable films, Walt Disney and Universal Studios are the two most profitable studios raking in USD 23,835,217,937.00 and USD 20,733,081,963.00 respectively over the 4 year period.
+Having the majority of the most high-earning and profitable films, Walt Disney and Universal Studios are the two most profitable studios raking in USD 23,835,217,937.00 and USD 20,733,081,963.00 respectively over the 4 year period (2010 - 2018).
 
 
+![Most profitable studios](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/5fb7e3e6-74d0-466a-acd1-d3c5186c84b9)
 
-![top 10 highest profit plus earning studios](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/5f1b9d76-7a72-442a-b87e-cfcaf356f884)
 
 
 ### 6. Movie Productions with the Highest Budgets
-Studios making big bucks also often allocate hefty budgets towards their production but this doesn't always pay off as we see only 4 movies among the top 20 movies with the largest budgets make it to the top 20 most profitable movies. These are, 
+Studios making big bucks also often allocate hefty budgets towards their production but this doesn't always pay off as expected. We see only 4 movies among the top 20 movies with the largest budgets make it to the top 20 most profitable movies. These are, 
 * Avengers: Age of Ultron
-* Avengers: Age of Ultron
+* Avengers: Infinity War
 * Captain America: Civil War
 * The Fate of the Furious
 
 
-![movies with largest production budgets](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/8d5e3519-42d5-4943-a774-17d44eabf153)
+
+![movies with highest prod budgets](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/2ab9d471-3418-4162-9e73-8a9f1a807aa1)
 
 
 
-### 7. Sequels: Comparative Analysis on Gross Profits
-Analyzing sequels, we find that they are greatly profitable and are a great way for studios to earn profits by further developing existing produtions. The performance between earlier and later releases varies from movie to movie likely dictated by the success of the preceeding film.
+### 7. Sequels: Comparative Analysis of Gross Profits
+Analyzing sequels, we find that they are greatly profitable and are a great way for studios to earn profits by further developing existing productions. The performance between earlier and later releases varies from movie to movie likely dictated by the success of the preceding film.
 
 
 
-![sequels gross profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/177ec7ad-0c3a-4419-8926-da605853e8df)
+![sequels](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/e4de0255-c440-46f2-bfd2-11acee1fce62)
+
 
 
 ### 8. Correlation between Vote Average (Rating) and Gross Profit
-We observe a weak positive relationship between vote average and profit. Implying that on average, as the vote average increases, there is a slight tendency for the profit to increase as well. However given the weakness of the correlation this suggest there may be a lot of variability in profit even for movies with similar vote averages.
+We observe a weak positive relationship between vote average and profit. Implying that on average, as the vote average increases, there is a slight tendency for the profit to increase as well. However, given the weakness of the correlation, this suggests there may be a lot of variability in profit even for movies with similar vote averages.
 
 
-![correlation vote average and profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/3f65f8df-bcd6-4ce0-a47f-72d41c86f3e0)
+
+![vote average vs profit](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/0c8ea9de-c1a6-4abf-a517-32c871dfe8ef)
+
+
 
 
 ### 9. Most Popular Genres
@@ -120,19 +128,27 @@ The top 5 most highly produced genres of film in the dataset are,
 * Adventure - 278
 * Thriller - 193
 
+
+![popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/5a5b201c-1016-4955-8b2a-953c33546ddd)
+
+
 We observe a combination of these genres also associated with the genres of the top 20  most profitable movies.
 
-![most popular genres](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dd7d8788-52ce-4864-b020-c2a2b2d5abe6)
+
+![genres for profitable movies](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/dca0d9de-fb4f-4623-be44-6d3d6be6574e)
 
 
-![genres for most profitable movies](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/69a970a8-bf6f-490b-a8b8-73736c0d88d6)
+
+### 9. Runtime Minutes
+While the average runtime for movies in the dataset is 108 minutes, we find that movie productions may far exceed the mean. A possible indication of audience demands for longer more engaging films.
+
+![Runtime box plot](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/cf660ef0-00f4-494c-b2bd-6e5bf9c5e223)
+
+It is observed that major box office productions will now often have movie runtimes ranging from 134 - 165 minutes. On a few occasions movies such as 'The Wolf of Wall Street' are made, pushing the limits with a runtime of 180 minutes. 
 
 
-### 9. Runtime Minutes: Most Profitable Movies
-While the average runtime for movies in the dataset is 108 minutes, we find that the top 10 most profitable movies go far beyond the mean, the run times ranging from 134 - 165 minutes.
+![longest runtimes](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/4c166db9-0397-42f1-8cc1-47fcbfe634f9)
 
-
-![profitable movies runtime mins](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/98c8bb5c-cd7d-461a-a0af-eaf3bb9c1102)
 
 
 ## Conclusions
