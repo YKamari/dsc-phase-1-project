@@ -162,13 +162,13 @@ The overseas market is critical for the success of any major film studio and thu
 
 
 ## Business Recommendations
-1. Conduct thorough market and competitor analysis as we have observed the market has been dominated by a select few studios namely, Walt Disney (BV), Universal Studios (Uni), Warner Bros (WB), Sony, and Fox. Given that numerous studios with years of experience have yet to dethrone the top 5 is an indicator of the mean feat that it is.
-3. Hire talent from the top 5 studios who can guide the strategy and content creation.
-4. Consider the foreign market - it has proven a major contributor to the success of the top 5 studios, especially Disney, the highest-earning studio from foreign gross earnings. 
-5. Develop storylines with longevity. Franchise films developed as comic book adaptations, Sci-Fi and fantasy films have become increasingly profitable over the years and are a great contributor to the success of other major studios.
-6. Investment in the right technology is key. Almost every movie being released at the moment is 3D and includes a massive amount of CGI.
-7. When it comes to runtime minutes it seems that nowadays, the longer the better. Studios appear to be giving audiences longer and longer movies possibly in response to audience feedback/demands.
-8. It may be a viable option for Microsoft to invest in one of the more successful studios in the industry given that it is far less risky and guarantees Microsoft a decent form of return.
+1. Market and Competitor Analysis: Thorough analysis of the market and competitors is essential, considering the dominance of top studios like Walt Disney, Universal Studios, Warner Bros, Sony, and Fox. Their long-standing success highlights the significant challenge of competing in the industry.
+2. Talent Acquisition: Hiring talent from the top 5 studios can provide valuable insights and expertise to guide Microsoft's content creation strategy.
+3. Foreign Market Focus: The foreign market has played a crucial role in the success of major studios like Disney. Considering international audiences and tailoring content to their preferences can contribute to overall success.
+4. Develop Long-lasting Storylines: Franchise films developed as comic book adaptations, Sci-Fi, and fantasy films have become increasingly profitable over the years and are a great contributor to the success of other major studios.
+5. Technology Investment: The film industry relies heavily on advanced technology, including 3D and CGI, to enhance the movie-watching experience. Investment in the right technology is vital to meet audience expectations.
+6. Long Runtimes: Recent trends suggest that longer movies are becoming more popular among audiences, possibly in response to audience feedback and demands. Studios are opting for extended runtimes to cater to this preference.
+7. It may be a viable option for Microsoft to invest in one of the more successful studios in the industry given that it is far less risky and guarantees Microsoft a decent form of return.
 
 ## Study Limitations
 1. Given the structure of the data, the correlation between genre and earnings could not be established.
