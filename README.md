@@ -45,7 +45,7 @@ There appears to be a downward trend in the number of movies released yearly wit
 
 We note a slight year-on-year increase in the average production budget from 2010 - 2013 and 2015 - 2017 with the drop in average production budget between 2013 and 2014 may possibly be attributed to a decrease in production of blockbuster movies or challenging economic times.
 
-Average gross profit earnings follow a similar trend to worldwide gross earnings with the average gross profit steadily increasing between 2010 and 2014, dipping in 2015, but recovering strongly from 2016 as foreign earnings reach an all-time high.
+Average gross profit earnings follow a similar trend to worldwide gross earnings with the average gross profit steadily increasing between 2010 and 2014, dipping in 2015, but recovering strongly from 2016 as foreign earnings reached an all-time high.
 
 
 
