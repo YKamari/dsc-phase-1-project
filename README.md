@@ -1,4 +1,7 @@
+
 # Microsoft Movie Venture Analysis
+
+![Oscars 2023- Highlights, history makers, winners and more from Hollywood's biggest night](https://github.com/YKamari/dsc-phase-1-project/assets/133201112/95f0a2ca-a5df-4177-b6ab-8e29822532d0)
 
 **Author**: [Yvonne Kamari](mailto:yvonne.kamari@student.moringaschool.com)
 
