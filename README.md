@@ -88,7 +88,7 @@ Having the majority of the most high earning and profitable films, Walt Disney a
 ### 6. Movie Productions with the Highest Budgets
 Studios making big bucks also often allocate hefty budgets towards their production but this doesn't always pay off as we see only 4 movies among the top 20 movies with the largest budgets make it to the top 20 most profitable movies. These are, 
 * Avengers: Age of Ultron
-* Avengers: Age of Ultron
+* Avengers: Infinity War
 * Captain America: Civil War
 * The Fate of the Furious
 
